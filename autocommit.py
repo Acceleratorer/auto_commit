@@ -92,7 +92,7 @@ def do_commit():
 
 def random_daily_commit(min_commits=0, max_commits=7):
     num_commits = random.randint(min_commits, max_commits)
-    commit_times = sorted(random.sample(range(0, 24*60*60), num_commits))
+    commit_times = sorted(random.sample(range(0,24*60*60), num_commits))
 
     for commit_time in commit_times:
         now = datetime.datetime.now()
