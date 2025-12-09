@@ -14,10 +14,10 @@ A simple automation script that automatically commits changes to a Git repositor
 
 ## 📂 Project Structure
 
-│── autocommit.py
-│── automatic_commit_log.txt
-│── run.bat
-│── README.md
+-│── autocommit.py
+-│── automatic_commit_log.txt
+-│── run.bat
+-│── README.md
 
 ---
 
@@ -46,7 +46,7 @@ pause
 If you run via Task Scheduler and don't want the window to close, keep the pause.
 If running silently → remove pause.
 
-##⏰ Setting up Task Scheduler
+## ⏰ Setting up Task Scheduler
 
     1/Open Task Scheduler
 
@@ -64,12 +64,12 @@ Make sure:
 
 “Run with highest privileges” is optional.
 
-##📝 Commit Log Example
+## 📝 Commit Log Example
 
 Every run adds a line like:
 Autocommit 2025-12-09 12:30:45
 
-##✨ Tips
+## ✨ Tips
 
 You can set Task Scheduler to run every 1 minute for near real-time commits.
 
@@ -77,7 +77,7 @@ Make sure your repo has correct remote and you already ran:
 git remote add origin <your_repo_link>
 git branch -M main
 
-##❤️ Author
+## ❤️ Author
 
 Automation script by Acceleratorer
 Simple idea → smooth workflow 😎
