@@ -39,8 +39,8 @@ Used to run the script via Task Scheduler:
 .bat file
 ```
 @echo off
-cd /d "E:\Code\Github\autocommit"
-"C:\Users\goddt\AppData\Local\Programs\Python\Python314\python.exe" autocommit.py
+cd /d "your\local\path\folder"
+"your\python\.exe\file\path\python.exe" autocommit.py
 pause
 ```
 If you run via Task Scheduler and don't want the window to close, keep the pause.
@@ -79,5 +79,5 @@ git branch -M main
 
 ## ❤️ Author
 
-Automation script by Acceleratorer
+Automation script by Acceleratorer <br>
 Simple idea → smooth workflow 😎
