@@ -13,7 +13,7 @@ A simple automation script that automatically commits changes to a Git repositor
 ---
 
 ## 📂 Project Structure
-E:/Code/Github/autocommit
+
 │── autocommit.py
 │── automatic_commit_log.txt
 │── run.bat
@@ -21,7 +21,7 @@ E:/Code/Github/autocommit
 
 ---
 
-## 🐍 `autocommit.py`
+## 🐍 `Autocommit.py`
 
 Your Python script handles:
 - Generating timestamp
@@ -46,17 +46,17 @@ pause
 If you run via Task Scheduler and don't want the window to close, keep the pause.
 If running silently → remove pause.
 
-⏰ Setting up Task Scheduler
+##⏰ Setting up Task Scheduler
 
-1/Open Task Scheduler
+    1/Open Task Scheduler
 
-2/Create Basic Task
+    2/Create Basic Task
 
-3/Trigger → choose Daily / Hourly / Every 5 minutes etc.
+    3/Trigger → choose Daily / Hourly / Every 5 minutes etc.
 
-4/Action → Start a Program
+    4/Action → Start a Program
 
-5/Program/script → Browse → select run.bat
+    5/Program/script → Browse → select run.bat
 
 Make sure:
 
@@ -64,12 +64,12 @@ Make sure:
 
 “Run with highest privileges” is optional.
 
-📝 Commit Log Example
+##📝 Commit Log Example
 
 Every run adds a line like:
 Autocommit 2025-12-09 12:30:45
 
-✨ Tips
+##✨ Tips
 
 You can set Task Scheduler to run every 1 minute for near real-time commits.
 
@@ -77,7 +77,7 @@ Make sure your repo has correct remote and you already ran:
 git remote add origin <your_repo_link>
 git branch -M main
 
-❤️ Author
+##❤️ Author
 
 Automation script by Acceleratorer
 Simple idea → smooth workflow 😎
