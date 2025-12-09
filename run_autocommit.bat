@@ -1,2 +1,3 @@
 @echo off
-"E:\Code\Github\autocommit\autocommit.py" 
+cd /d "E:\Code\Github\autocommit"
+"C:\Users\goddt\AppData\Local\Programs\Python\Python314\python.exe" autocommit.py
