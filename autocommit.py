@@ -10,7 +10,7 @@ os.chdir(REPO_PATH)
 
 # commit messages
 options = [
-    # funny
+
     "Update something, but forgot what it is ",
     "Just making sure everything is up to date ",
     "Small adjustments. Don’t ask what ",
@@ -24,7 +24,7 @@ options = [
     "Optimized absolutely nothing ",
     "Made everything worse, but in a good way ",
 
-    # mood toxic
+
     "If this breaks, it wasn’t me ",
     "If this works, I’m a genius ",
     "Future me will hate this ",
@@ -32,26 +32,24 @@ options = [
     "I regret everything ",
     "Too tired to explain ",
 
-    # hacker mode
+    "Quantum entanglement fixed ",
     "Patched the matrix.exe ",
     "Stabilized quantum bug ",
     "Optimizing chaos engine ",
     "Enhanced entropy protocol ",
 
 
-    # senior developer tier
     "I’ve seen things… terrible things ",
     "Don’t touch this file. Ever again ",
     "Fixed it, I think. Maybe. Probably not.",
     "We don't talk about this commit ",
 
-    # hallucination mode
+
     "Fixed bug in a parallel universe ",
     "Improved speed by 3667%* (*not really) ",
     "Self-healing code enabled ",
     "Optimized the unoptimizable ",
 
-    # chaos
     "Nobody knows what this does, including me",
     "99 problems but a commit ain’t one",
     "Bug removed… I think",
@@ -109,7 +107,7 @@ def random_daily_commit(min_commits=0, max_commits=7):
         do_commit()
 
 # 15% skip day
-if random.random() < 0.15:
+if random.random() < 0.15: #change skip rate here 
     print("Off and GoodBye World! (skip day)")
     exit()
 
