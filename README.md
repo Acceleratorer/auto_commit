@@ -14,10 +14,10 @@ A simple automation script that automatically commits changes to a Git repositor
 
 ## 📂 Project Structure
 
--│── autocommit.py
--│── automatic_commit_log.txt
--│── run.bat
--│── README.md
+- │── autocommit.py
+- │── automatic_commit_log.txt
+- │── run.bat
+- │── README.md
 
 ---
 
