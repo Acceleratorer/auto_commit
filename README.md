@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Automated-brightgreen)
+![Platform](https://img.shields.io/badge/Windows-Supported-blue)
+
 # 🕒 AutoCommit Script (Auto Commit Wizard)
 
 A simple automation script that automatically commits changes to a Git repository using Python and a Windows `.bat` + Task Scheduler setup.
@@ -32,7 +37,7 @@ Make sure Git is installed and added to PATH.
 
 ---
 
-## 🖥️ Windows Batch File (`run.bat`)
+## 🖥️ Windows Batch File (`run_autocommit.bat`)
 
 Used to run the script via Task Scheduler:
 
@@ -76,6 +81,16 @@ You can set Task Scheduler to run every 1 minute for near real-time commits.
 Make sure your repo has correct remote and you already ran:
 git remote add origin <your_repo_link>
 git branch -M main
+
+## 📊 Feature Status
+| Feature                     | Status      |
+| --------------------------- | ----------- |
+| Random smart commit message | ✅           |
+| Daily random commit time    | ✅           |
+| Skip-day system             | ✅           |
+| Custom moods                | 🟡 (coming) |
+| GitHub API integration      | ❌           |
+
 
 ## ❤️ Author
 
