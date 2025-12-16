@@ -1,6 +1,2 @@
 @echo off
-cd /d "E:\Code\Github\autocommit"
-"C:\Users\goddt\AppData\Local\Programs\Python\Python314\python.exe" autocommit.py
-echo.
-echo ---- Script Finished ----
-pause
+"C:\Users\goddt\AppData\Local\Programs\Python\Python314\python.exe" E:\Code\Github\autocommit\autocommit_v2.py
