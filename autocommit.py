@@ -1,13 +1,12 @@
 # wizard auto commit tools — v4 (Behavioral Intelligence Edition)
 # Author: Acceleratorer
-# Version: v4.0.0
+# Version: v4.1.0
 # --------------------------------------------------
-# Key features:
-# - Human-like commit rhythm (time + weekday)
-# - Weekend / workday personality
-# - Vacation & cooldown modes
-# - Commit heatmap-ready analytics
-# - Message learning (weighted history)
+# Behavioral systems:
+# - Burnout accumulation & recovery
+# - Smart vacation triggering
+# - Cooldown after vacation
+# - Human-like commit rhythm
 # - Safe Task Scheduler execution
 
 import os
@@ -31,33 +30,45 @@ LOCK_FILE = REPO_PATH / ".autocommit.lock"
 
 MAX_COMMITS_PER_DAY = 5
 BASE_SKIP_RATE = 0.12
-VACATION_RATE = 0.04
-VACATION_DAYS = (2, 6)
 LOCK_TIMEOUT_SEC = 90
 
-# Time-of-day weights
+# ---------- Burnout ----------
+BURNOUT_INCREASE = 0.12
+BURNOUT_RECOVERY = 0.08
+
+# ---------- Vacation ----------
+BASE_VACATION_RATE = 0.003
+MAX_VACATION_RATE = 0.03
+VACATION_DAYS = (1, 3)
+COOLDOWN_DAYS = (2, 4)
+
+# ---------- Time personality ----------
 TIME_WEIGHTS = {
-    "night": 0.1,     # 00–06
-    "morning": 0.6,   # 06–11
-    "afternoon": 0.9, # 12–17
-    "evening": 0.7,   # 18–23
+    "night": 0.1,
+    "morning": 0.6,
+    "afternoon": 1.0,
+    "evening": 0.8,
 }
 
-# Weekday personality
-WEEKDAY_MULTIPLIER = 1.0
+WEEKDAY_MULTIPLIER = 1.2
 WEEKEND_MULTIPLIER = 0.6
 
 DEFAULT_MESSAGES = [
     "Minor cleanup",
     "Refactor logic",
     "Improve readability",
-    "Update internal flow",
     "Fix small edge case",
-    "Code maintenance",
     "General improvement",
     "Small optimization",
+    "Touching file to feel productive",
+    "Commit achieved. Dignity lost.",
+    "Future me will hate this",
+    "Too tired to explain",
+    "Optimized absolutely nothing",
+    "This commit is 100% necessary. Probably.",
 ]
-# ==================================================
+
+# =================================================
 
 
 def setup_logging():
@@ -89,7 +100,7 @@ def run(cmd, check=True):
     return res
 
 
-# -------------------- LOCK ------------------------
+# ================= LOCK ===========================
 
 def acquire_lock():
     if LOCK_FILE.exists():
@@ -105,7 +116,7 @@ def release_lock():
     LOCK_FILE.unlink(missing_ok=True)
 
 
-# -------------------- STATS -----------------------
+# ================= STATS ==========================
 
 def load_json(path, default):
     if path.exists():
@@ -117,7 +128,7 @@ def save_json(path, data):
     path.write_text(json.dumps(data, indent=2))
 
 
-# ----------------- BEHAVIOR -----------------------
+# ================= BEHAVIOR =======================
 
 def time_weight():
     h = dt.datetime.now().hour
@@ -144,6 +155,61 @@ def record_commit(stats):
     stats["daily_commits"][today] = stats["daily_commits"].get(today, 0) + 1
 
 
+# ================= BURNOUT ========================
+
+def update_burnout(stats, committed):
+    today = dt.date.today()
+    burnout = stats.get("burnout", 0.0)
+
+    if committed:
+        burnout += BURNOUT_INCREASE
+    else:
+        burnout -= BURNOUT_RECOVERY
+
+    stats["burnout"] = max(0.0, min(1.0, burnout))
+    stats["last_active_day"] = today.isoformat()
+
+    log(f"Burnout updated → {stats['burnout']:.2f}")
+
+
+# ================= VACATION =======================
+
+def vacation_probability(stats):
+    burnout = stats.get("burnout", 0.0)
+    return BASE_VACATION_RATE + burnout * (MAX_VACATION_RATE - BASE_VACATION_RATE)
+
+
+def maybe_start_vacation(stats):
+    today = dt.date.today()
+
+    # Active vacation
+    if stats.get("vacation_until"):
+        if today <= dt.date.fromisoformat(stats["vacation_until"]):
+            return
+        stats["vacation_until"] = None
+
+    # Cooldown
+    if stats.get("cooldown_until"):
+        if today <= dt.date.fromisoformat(stats["cooldown_until"]):
+            return
+        stats["cooldown_until"] = None
+
+    prob = vacation_probability(stats)
+    roll = random.random()
+
+    log(f"Vacation roll={roll:.3f}, prob={prob:.3f}")
+
+    if roll < prob:
+        days = random.randint(*VACATION_DAYS)
+        until = today + dt.timedelta(days=days)
+        stats["vacation_until"] = until.isoformat()
+
+        cd = random.randint(*COOLDOWN_DAYS)
+        stats["cooldown_until"] = (until + dt.timedelta(days=cd)).isoformat()
+
+        log(f"Vacation started {days} days, cooldown {cd} days")
+
+
 def in_vacation(stats):
     until = stats.get("vacation_until")
     if not until:
@@ -151,38 +217,30 @@ def in_vacation(stats):
     return dt.date.today() <= dt.date.fromisoformat(until)
 
 
-def maybe_start_vacation(stats):
-    if random.random() < VACATION_RATE:
-        days = random.randint(*VACATION_DAYS)
-        until = dt.date.today() + dt.timedelta(days=days)
-        stats["vacation_until"] = until.isoformat()
-        log(f"Vacation mode enabled until {until}")
-
-
 def should_commit(stats):
     if in_vacation(stats):
-        log("Vacation active. Skip.")
+        log("Vacation active. Skip commit.")
         return False
 
     if daily_commit_count(stats) >= MAX_COMMITS_PER_DAY:
-        log("Daily commit limit reached.")
         return False
 
     multiplier = WEEKEND_MULTIPLIER if is_weekend() else WEEKDAY_MULTIPLIER
-    probability = (1 - BASE_SKIP_RATE) * time_weight() * multiplier
+    burnout_penalty = 1.0 - stats.get("burnout", 0.0) * 0.6
 
+    probability = (1 - BASE_SKIP_RATE) * time_weight() * multiplier * burnout_penalty
     decision = random.random() < probability
-    log(f"Commit probability={probability:.2f}, decision={decision}")
+
+    log(f"Commit prob={probability:.2f}, decision={decision}")
     return decision
 
 
-# ----------------- MESSAGES -----------------------
+# ================= MESSAGES =======================
 
 def load_messages():
     history = load_json(MSG_HISTORY_FILE, {})
     if history:
-        weighted = Counter(history)
-        return list(weighted.elements())
+        return list(Counter(history).elements())
     return DEFAULT_MESSAGES
 
 
@@ -192,7 +250,7 @@ def record_message(msg):
     save_json(MSG_HISTORY_FILE, history)
 
 
-# ------------------- GIT --------------------------
+# ================= GIT ============================
 
 def ensure_diff():
     ts = dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -203,38 +261,51 @@ def do_commit(stats):
     ensure_diff()
     run(["git", "add", "."])
 
-    messages = load_messages()
-    msg = random.choice(messages)
-
+    msg = random.choice(load_messages())
     run(["git", "commit", "-m", msg], check=False)
     run(["git", "push"])
 
     record_commit(stats)
     record_message(msg)
+    update_burnout(stats, committed=True)
+
     log(f"Committed: {msg}")
 
 
-# ------------------- MAIN -------------------------
+# ================= MAIN ===========================
 
 if __name__ == "__main__":
     os.chdir(REPO_PATH)
     setup_logging()
-    log("Task started (v4)")
+    log("Task started (v4.1)")
 
     if not acquire_lock():
         sys.exit(0)
 
-    stats = load_json(STATS_FILE, {"daily_commits": {}, "vacation_until": None})
+    stats = load_json(
+        STATS_FILE,
+        {
+            "daily_commits": {},
+            "burnout": 0.0,
+            "vacation_until": None,
+            "cooldown_until": None,
+            "last_active_day": None,
+        },
+    )
 
     try:
         maybe_start_vacation(stats)
+
         if should_commit(stats):
             do_commit(stats)
         else:
+            update_burnout(stats, committed=False)
             log("No commit this run")
+
     except Exception as e:
         log(f"Fatal error: {e}", logging.ERROR)
+
     finally:
         save_json(STATS_FILE, stats)
         release_lock()
-        log("Task finished (v4)")
+        log("Task finished (v4.1)")

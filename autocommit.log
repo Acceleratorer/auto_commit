@@ -365,3 +365,651 @@
 2025-12-21 01:24:41,178 [INFO] Vacation active. Skip.
 2025-12-21 01:24:41,178 [INFO] No commit this run
 2025-12-21 01:24:41,181 [INFO] Task finished (v4)
+2025-12-21 04:00:02,996 [INFO] Task started (v4)
+2025-12-21 04:00:02,999 [INFO] Vacation active. Skip.
+2025-12-21 04:00:02,999 [INFO] No commit this run
+2025-12-21 04:00:02,999 [INFO] Task finished (v4)
+2025-12-21 04:12:27,510 [INFO] Task started (v4)
+2025-12-21 04:12:27,513 [INFO] Vacation active. Skip.
+2025-12-21 04:12:27,513 [INFO] No commit this run
+2025-12-21 04:12:27,514 [INFO] Task finished (v4)
+2025-12-21 04:12:44,438 [INFO] Task started (v4)
+2025-12-21 04:12:44,442 [INFO] Vacation active. Skip.
+2025-12-21 04:12:44,442 [INFO] No commit this run
+2025-12-21 04:12:44,443 [INFO] Task finished (v4)
+2025-12-21 04:24:40,515 [INFO] Task started (v4)
+2025-12-21 04:24:40,518 [INFO] Vacation active. Skip.
+2025-12-21 04:24:40,518 [INFO] No commit this run
+2025-12-21 04:24:40,519 [INFO] Task finished (v4)
+2025-12-21 07:00:02,993 [INFO] Task started (v4)
+2025-12-21 07:00:03,005 [INFO] Vacation active. Skip.
+2025-12-21 07:00:03,005 [INFO] No commit this run
+2025-12-21 07:00:03,006 [INFO] Task finished (v4)
+2025-12-21 07:12:27,529 [INFO] Task started (v4)
+2025-12-21 07:12:27,532 [INFO] Vacation active. Skip.
+2025-12-21 07:12:27,532 [INFO] No commit this run
+2025-12-21 07:12:27,533 [INFO] Task finished (v4)
+2025-12-21 07:12:44,554 [INFO] Task started (v4)
+2025-12-21 07:12:44,557 [INFO] Vacation active. Skip.
+2025-12-21 07:12:44,557 [INFO] No commit this run
+2025-12-21 07:12:44,558 [INFO] Task finished (v4)
+2025-12-21 07:24:40,753 [INFO] Task started (v4)
+2025-12-21 07:24:40,757 [INFO] Vacation active. Skip.
+2025-12-21 07:24:40,757 [INFO] No commit this run
+2025-12-21 07:24:40,758 [INFO] Task finished (v4)
+2025-12-21 10:00:02,765 [INFO] Task started (v4)
+2025-12-21 10:00:02,768 [INFO] Vacation active. Skip.
+2025-12-21 10:00:02,768 [INFO] No commit this run
+2025-12-21 10:00:02,769 [INFO] Task finished (v4)
+2025-12-21 10:12:27,580 [INFO] Task started (v4)
+2025-12-21 10:12:27,583 [INFO] Vacation active. Skip.
+2025-12-21 10:12:27,583 [INFO] No commit this run
+2025-12-21 10:12:27,585 [INFO] Task finished (v4)
+2025-12-21 10:12:44,530 [INFO] Task started (v4)
+2025-12-21 10:12:44,533 [INFO] Vacation active. Skip.
+2025-12-21 10:12:44,534 [INFO] No commit this run
+2025-12-21 10:12:44,535 [INFO] Task finished (v4)
+2025-12-21 10:24:40,696 [INFO] Task started (v4)
+2025-12-21 10:24:40,711 [INFO] Vacation active. Skip.
+2025-12-21 10:24:40,711 [INFO] No commit this run
+2025-12-21 10:24:40,712 [INFO] Task finished (v4)
+2025-12-21 13:00:02,893 [INFO] Task started (v4)
+2025-12-21 13:00:02,897 [INFO] Vacation active. Skip.
+2025-12-21 13:00:02,897 [INFO] No commit this run
+2025-12-21 13:00:02,898 [INFO] Task finished (v4)
+2025-12-21 13:12:27,541 [INFO] Task started (v4)
+2025-12-21 13:12:27,543 [INFO] Vacation active. Skip.
+2025-12-21 13:12:27,543 [INFO] No commit this run
+2025-12-21 13:12:27,544 [INFO] Task finished (v4)
+2025-12-21 13:12:44,528 [INFO] Task started (v4)
+2025-12-21 13:12:44,530 [INFO] Vacation active. Skip.
+2025-12-21 13:12:44,530 [INFO] No commit this run
+2025-12-21 13:12:44,532 [INFO] Task finished (v4)
+2025-12-21 13:24:40,565 [INFO] Task started (v4)
+2025-12-21 13:24:40,568 [INFO] Vacation active. Skip.
+2025-12-21 13:24:40,568 [INFO] No commit this run
+2025-12-21 13:24:40,569 [INFO] Task finished (v4)
+2025-12-21 16:00:03,228 [INFO] Task started (v4)
+2025-12-21 16:00:03,242 [INFO] Vacation active. Skip.
+2025-12-21 16:00:03,243 [INFO] No commit this run
+2025-12-21 16:00:03,244 [INFO] Task finished (v4)
+2025-12-21 19:00:03,014 [INFO] Task started (v4)
+2025-12-21 19:00:03,030 [INFO] Vacation active. Skip.
+2025-12-21 19:00:03,030 [INFO] No commit this run
+2025-12-21 19:00:03,031 [INFO] Task finished (v4)
+2025-12-21 22:00:03,040 [INFO] Task started (v4)
+2025-12-21 22:00:03,044 [INFO] Vacation active. Skip.
+2025-12-21 22:00:03,045 [INFO] No commit this run
+2025-12-21 22:00:03,045 [INFO] Task finished (v4)
+2025-12-21 22:01:45,296 [INFO] Task started (v4)
+2025-12-21 22:01:45,299 [INFO] Vacation active. Skip.
+2025-12-21 22:01:45,300 [INFO] No commit this run
+2025-12-21 22:01:45,300 [INFO] Task finished (v4)
+2025-12-22 01:00:03,056 [INFO] Task started (v4)
+2025-12-22 01:00:03,059 [INFO] Vacation active. Skip.
+2025-12-22 01:00:03,059 [INFO] No commit this run
+2025-12-22 01:00:03,061 [INFO] Task finished (v4)
+2025-12-22 01:01:46,035 [INFO] Task started (v4)
+2025-12-22 01:01:46,038 [INFO] Vacation active. Skip.
+2025-12-22 01:01:46,038 [INFO] No commit this run
+2025-12-22 01:01:46,039 [INFO] Task finished (v4)
+2025-12-22 04:00:02,920 [INFO] Task started (v4)
+2025-12-22 04:00:02,933 [INFO] Vacation active. Skip.
+2025-12-22 04:00:02,933 [INFO] No commit this run
+2025-12-22 04:00:02,934 [INFO] Task finished (v4)
+2025-12-22 04:01:45,897 [INFO] Task started (v4)
+2025-12-22 04:01:45,900 [INFO] Vacation active. Skip.
+2025-12-22 04:01:45,900 [INFO] No commit this run
+2025-12-22 04:01:45,902 [INFO] Task finished (v4)
+2025-12-22 07:00:02,800 [INFO] Task started (v4)
+2025-12-22 07:00:02,817 [INFO] Vacation mode enabled until 2025-12-24
+2025-12-22 07:00:02,817 [INFO] Vacation active. Skip.
+2025-12-22 07:00:02,818 [INFO] No commit this run
+2025-12-22 07:00:02,819 [INFO] Task finished (v4)
+2025-12-22 07:01:45,994 [INFO] Task started (v4)
+2025-12-22 07:01:46,005 [INFO] Vacation active. Skip.
+2025-12-22 07:01:46,005 [INFO] No commit this run
+2025-12-22 07:01:46,006 [INFO] Task finished (v4)
+2025-12-22 13:01:37,459 [INFO] Task started (v4)
+2025-12-22 13:01:37,488 [INFO] Vacation active. Skip.
+2025-12-22 13:01:37,488 [INFO] No commit this run
+2025-12-22 13:01:37,490 [INFO] Task finished (v4)
+2025-12-22 16:00:02,894 [INFO] Task started (v4)
+2025-12-22 16:00:02,899 [INFO] Vacation active. Skip.
+2025-12-22 16:00:02,900 [INFO] No commit this run
+2025-12-22 16:00:02,901 [INFO] Task finished (v4)
+2025-12-22 21:06:44,991 [INFO] Task started (v4)
+2025-12-22 21:06:45,023 [INFO] Vacation active. Skip.
+2025-12-22 21:06:45,023 [INFO] No commit this run
+2025-12-22 21:06:45,024 [INFO] Task finished (v4)
+2025-12-22 22:00:02,434 [INFO] Task started (v4)
+2025-12-22 22:00:02,437 [INFO] Vacation active. Skip.
+2025-12-22 22:00:02,437 [INFO] No commit this run
+2025-12-22 22:00:02,438 [INFO] Task finished (v4)
+2025-12-22 22:02:11,282 [INFO] Task started (v4)
+2025-12-22 22:02:11,284 [INFO] Vacation active. Skip.
+2025-12-22 22:02:11,284 [INFO] No commit this run
+2025-12-22 22:02:11,285 [INFO] Task finished (v4)
+2025-12-23 01:00:02,865 [INFO] Task started (v4)
+2025-12-23 01:00:02,868 [INFO] Vacation active. Skip.
+2025-12-23 01:00:02,868 [INFO] No commit this run
+2025-12-23 01:00:02,869 [INFO] Task finished (v4)
+2025-12-23 01:02:12,130 [INFO] Task started (v4)
+2025-12-23 01:02:12,133 [INFO] Vacation active. Skip.
+2025-12-23 01:02:12,133 [INFO] No commit this run
+2025-12-23 01:02:12,133 [INFO] Task finished (v4)
+2025-12-23 04:00:02,539 [INFO] Task started (v4)
+2025-12-23 04:00:02,563 [INFO] Vacation active. Skip.
+2025-12-23 04:00:02,563 [INFO] No commit this run
+2025-12-23 04:00:02,564 [INFO] Task finished (v4)
+2025-12-23 04:02:11,789 [INFO] Task started (v4)
+2025-12-23 04:02:11,792 [INFO] Vacation active. Skip.
+2025-12-23 04:02:11,792 [INFO] No commit this run
+2025-12-23 04:02:11,792 [INFO] Task finished (v4)
+2025-12-23 07:00:02,619 [INFO] Task started (v4)
+2025-12-23 07:00:02,631 [INFO] Vacation active. Skip.
+2025-12-23 07:00:02,631 [INFO] No commit this run
+2025-12-23 07:00:02,631 [INFO] Task finished (v4)
+2025-12-23 07:02:11,784 [INFO] Task started (v4)
+2025-12-23 07:02:11,786 [INFO] Vacation active. Skip.
+2025-12-23 07:02:11,786 [INFO] No commit this run
+2025-12-23 07:02:11,786 [INFO] Task finished (v4)
+2025-12-23 10:00:02,518 [INFO] Task started (v4)
+2025-12-23 10:00:02,529 [INFO] Vacation active. Skip.
+2025-12-23 10:00:02,529 [INFO] No commit this run
+2025-12-23 10:00:02,530 [INFO] Task finished (v4)
+2025-12-23 10:02:11,792 [INFO] Task started (v4)
+2025-12-23 10:02:11,794 [INFO] Vacation active. Skip.
+2025-12-23 10:02:11,794 [INFO] No commit this run
+2025-12-23 10:02:11,795 [INFO] Task finished (v4)
+2025-12-23 13:00:02,382 [INFO] Task started (v4)
+2025-12-23 13:00:02,384 [INFO] Vacation active. Skip.
+2025-12-23 13:00:02,384 [INFO] No commit this run
+2025-12-23 13:00:02,385 [INFO] Task finished (v4)
+2025-12-23 13:02:11,756 [INFO] Task started (v4)
+2025-12-23 13:02:11,758 [INFO] Vacation active. Skip.
+2025-12-23 13:02:11,758 [INFO] No commit this run
+2025-12-23 13:02:11,759 [INFO] Task finished (v4)
+2025-12-23 16:00:02,253 [INFO] Task started (v4)
+2025-12-23 16:00:02,255 [INFO] Vacation active. Skip.
+2025-12-23 16:00:02,255 [INFO] No commit this run
+2025-12-23 16:00:02,255 [INFO] Task finished (v4)
+2025-12-23 16:02:11,503 [INFO] Task started (v4)
+2025-12-23 16:02:11,505 [INFO] Vacation active. Skip.
+2025-12-23 16:02:11,505 [INFO] No commit this run
+2025-12-23 16:02:11,505 [INFO] Task finished (v4)
+2025-12-23 19:00:02,454 [INFO] Task started (v4)
+2025-12-23 19:00:02,464 [INFO] Vacation active. Skip.
+2025-12-23 19:00:02,465 [INFO] No commit this run
+2025-12-23 19:00:02,465 [INFO] Task finished (v4)
+2025-12-23 19:02:11,562 [INFO] Task started (v4)
+2025-12-23 19:02:11,564 [INFO] Vacation active. Skip.
+2025-12-23 19:02:11,564 [INFO] No commit this run
+2025-12-23 19:02:11,565 [INFO] Task finished (v4)
+2025-12-23 22:00:09,629 [INFO] Task started (v4)
+2025-12-23 22:00:09,664 [INFO] Vacation active. Skip.
+2025-12-23 22:00:09,664 [INFO] No commit this run
+2025-12-23 22:00:09,680 [INFO] Task finished (v4)
+2025-12-23 22:02:05,783 [INFO] Task started (v4)
+2025-12-23 22:02:05,790 [INFO] Vacation active. Skip.
+2025-12-23 22:02:05,791 [INFO] No commit this run
+2025-12-23 22:02:05,793 [INFO] Task finished (v4)
+2025-12-23 22:02:12,330 [INFO] Task started (v4)
+2025-12-23 22:02:12,335 [INFO] Vacation active. Skip.
+2025-12-23 22:02:12,335 [INFO] No commit this run
+2025-12-23 22:02:12,337 [INFO] Task finished (v4)
+2025-12-24 01:00:02,776 [INFO] Task started (v4)
+2025-12-24 01:00:02,788 [INFO] Vacation active. Skip.
+2025-12-24 01:00:02,788 [INFO] No commit this run
+2025-12-24 01:00:02,789 [INFO] Task finished (v4)
+2025-12-24 01:02:04,697 [INFO] Task started (v4)
+2025-12-24 01:02:04,700 [INFO] Vacation active. Skip.
+2025-12-24 01:02:04,700 [INFO] No commit this run
+2025-12-24 01:02:04,701 [INFO] Task finished (v4)
+2025-12-24 01:02:11,638 [INFO] Task started (v4)
+2025-12-24 01:02:11,641 [INFO] Vacation active. Skip.
+2025-12-24 01:02:11,641 [INFO] No commit this run
+2025-12-24 01:02:11,642 [INFO] Task finished (v4)
+2025-12-24 13:35:55,664 [INFO] Task started (v4)
+2025-12-24 13:35:55,670 [INFO] Vacation active. Skip.
+2025-12-24 13:35:55,670 [INFO] No commit this run
+2025-12-24 13:35:55,672 [INFO] Task finished (v4)
+2025-12-24 16:00:03,560 [INFO] Task started (v4)
+2025-12-24 16:00:03,570 [INFO] Vacation active. Skip.
+2025-12-24 16:00:03,571 [INFO] No commit this run
+2025-12-24 16:00:03,571 [INFO] Task finished (v4)
+2025-12-24 16:02:05,811 [INFO] Task started (v4)
+2025-12-24 16:02:05,813 [INFO] Vacation active. Skip.
+2025-12-24 16:02:05,813 [INFO] No commit this run
+2025-12-24 16:02:05,814 [INFO] Task finished (v4)
+2025-12-24 16:02:12,004 [INFO] Task started (v4)
+2025-12-24 16:02:12,006 [INFO] Vacation active. Skip.
+2025-12-24 16:02:12,007 [INFO] No commit this run
+2025-12-24 16:02:12,008 [INFO] Task finished (v4)
+2025-12-24 19:00:03,506 [INFO] Task started (v4)
+2025-12-24 19:00:03,509 [INFO] Vacation active. Skip.
+2025-12-24 19:00:03,509 [INFO] No commit this run
+2025-12-24 19:00:03,510 [INFO] Task finished (v4)
+2025-12-24 19:02:05,691 [INFO] Task started (v4)
+2025-12-24 19:02:05,693 [INFO] Vacation active. Skip.
+2025-12-24 19:02:05,693 [INFO] No commit this run
+2025-12-24 19:02:05,693 [INFO] Task finished (v4)
+2025-12-24 19:02:12,015 [INFO] Task started (v4)
+2025-12-24 19:02:12,018 [INFO] Vacation active. Skip.
+2025-12-24 19:02:12,018 [INFO] No commit this run
+2025-12-24 19:02:12,020 [INFO] Task finished (v4)
+2025-12-24 22:00:03,781 [INFO] Task started (v4)
+2025-12-24 22:00:03,784 [INFO] Vacation active. Skip.
+2025-12-24 22:00:03,785 [INFO] No commit this run
+2025-12-24 22:00:03,786 [INFO] Task finished (v4)
+2025-12-24 22:02:05,097 [INFO] Task started (v4)
+2025-12-24 22:02:05,101 [INFO] Vacation active. Skip.
+2025-12-24 22:02:05,101 [INFO] No commit this run
+2025-12-24 22:02:05,102 [INFO] Task finished (v4)
+2025-12-24 22:02:11,827 [INFO] Task started (v4)
+2025-12-24 22:02:11,830 [INFO] Vacation active. Skip.
+2025-12-24 22:02:11,830 [INFO] No commit this run
+2025-12-24 22:02:11,831 [INFO] Task finished (v4)
+2025-12-24 22:19:56,869 [INFO] Task started (v4)
+2025-12-24 22:19:56,873 [INFO] Vacation active. Skip.
+2025-12-24 22:19:56,873 [INFO] No commit this run
+2025-12-24 22:19:56,875 [INFO] Task finished (v4)
+2025-12-25 01:00:03,162 [INFO] Task started (v4)
+2025-12-25 01:00:03,165 [INFO] Commit probability=0.09, decision=False
+2025-12-25 01:00:03,165 [INFO] No commit this run
+2025-12-25 01:00:03,166 [INFO] Task finished (v4)
+2025-12-25 01:02:04,994 [INFO] Task started (v4)
+2025-12-25 01:02:04,998 [INFO] Commit probability=0.09, decision=False
+2025-12-25 01:02:04,998 [INFO] No commit this run
+2025-12-25 01:02:04,999 [INFO] Task finished (v4)
+2025-12-25 01:02:11,893 [INFO] Task started (v4)
+2025-12-25 01:02:11,895 [INFO] Commit probability=0.09, decision=False
+2025-12-25 01:02:11,895 [INFO] No commit this run
+2025-12-25 01:02:11,896 [INFO] Task finished (v4)
+2025-12-25 01:19:57,884 [INFO] Task started (v4)
+2025-12-25 01:19:57,887 [INFO] Commit probability=0.09, decision=False
+2025-12-25 01:19:57,887 [INFO] No commit this run
+2025-12-25 01:19:57,888 [INFO] Task finished (v4)
+2025-12-25 04:00:03,366 [INFO] Task started (v4)
+2025-12-25 04:00:03,375 [INFO] Commit probability=0.09, decision=False
+2025-12-25 04:00:03,375 [INFO] No commit this run
+2025-12-25 04:00:03,376 [INFO] Task finished (v4)
+2025-12-25 04:02:05,633 [INFO] Task started (v4)
+2025-12-25 04:02:05,635 [INFO] Vacation mode enabled until 2025-12-28
+2025-12-25 04:02:05,635 [INFO] Vacation active. Skip.
+2025-12-25 04:02:05,635 [INFO] No commit this run
+2025-12-25 04:02:05,635 [INFO] Task finished (v4)
+2025-12-25 04:02:11,951 [INFO] Task started (v4)
+2025-12-25 04:02:11,960 [INFO] Vacation active. Skip.
+2025-12-25 04:02:11,960 [INFO] No commit this run
+2025-12-25 04:02:11,961 [INFO] Task finished (v4)
+2025-12-25 04:19:57,665 [INFO] Task started (v4)
+2025-12-25 04:19:57,667 [INFO] Vacation active. Skip.
+2025-12-25 04:19:57,667 [INFO] No commit this run
+2025-12-25 04:19:57,668 [INFO] Task finished (v4)
+2025-12-25 07:00:03,343 [INFO] Task started (v4)
+2025-12-25 07:00:03,351 [INFO] Vacation active. Skip.
+2025-12-25 07:00:03,351 [INFO] No commit this run
+2025-12-25 07:00:03,352 [INFO] Task finished (v4)
+2025-12-25 07:02:05,634 [INFO] Task started (v4)
+2025-12-25 07:02:05,635 [INFO] Vacation active. Skip.
+2025-12-25 07:02:05,635 [INFO] No commit this run
+2025-12-25 07:02:05,636 [INFO] Task finished (v4)
+2025-12-25 07:02:12,012 [INFO] Task started (v4)
+2025-12-25 07:02:12,013 [INFO] Vacation active. Skip.
+2025-12-25 07:02:12,014 [INFO] No commit this run
+2025-12-25 07:02:12,014 [INFO] Task finished (v4)
+2025-12-25 07:19:57,654 [INFO] Task started (v4)
+2025-12-25 07:19:57,656 [INFO] Vacation active. Skip.
+2025-12-25 07:19:57,656 [INFO] No commit this run
+2025-12-25 07:19:57,656 [INFO] Task finished (v4)
+2025-12-25 10:00:03,226 [INFO] Task started (v4)
+2025-12-25 10:00:03,227 [INFO] Vacation active. Skip.
+2025-12-25 10:00:03,228 [INFO] No commit this run
+2025-12-25 10:00:03,228 [INFO] Task finished (v4)
+2025-12-25 10:02:05,613 [INFO] Task started (v4)
+2025-12-25 10:02:05,614 [INFO] Vacation active. Skip.
+2025-12-25 10:02:05,614 [INFO] No commit this run
+2025-12-25 10:02:05,615 [INFO] Task finished (v4)
+2025-12-25 10:02:11,902 [INFO] Task started (v4)
+2025-12-25 10:02:11,903 [INFO] Vacation active. Skip.
+2025-12-25 10:02:11,903 [INFO] No commit this run
+2025-12-25 10:02:11,904 [INFO] Task finished (v4)
+2025-12-25 10:19:57,666 [INFO] Task started (v4)
+2025-12-25 10:19:57,668 [INFO] Vacation active. Skip.
+2025-12-25 10:19:57,668 [INFO] No commit this run
+2025-12-25 10:19:57,669 [INFO] Task finished (v4)
+2025-12-25 13:00:03,242 [INFO] Task started (v4)
+2025-12-25 13:00:03,244 [INFO] Vacation active. Skip.
+2025-12-25 13:00:03,244 [INFO] No commit this run
+2025-12-25 13:00:03,244 [INFO] Task finished (v4)
+2025-12-25 13:02:05,609 [INFO] Task started (v4)
+2025-12-25 13:02:05,611 [INFO] Vacation active. Skip.
+2025-12-25 13:02:05,611 [INFO] No commit this run
+2025-12-25 13:02:05,611 [INFO] Task finished (v4)
+2025-12-25 13:02:11,908 [INFO] Task started (v4)
+2025-12-25 13:02:11,910 [INFO] Vacation active. Skip.
+2025-12-25 13:02:11,910 [INFO] No commit this run
+2025-12-25 13:02:11,910 [INFO] Task finished (v4)
+2025-12-25 13:19:57,719 [INFO] Task started (v4)
+2025-12-25 13:19:57,720 [INFO] Vacation active. Skip.
+2025-12-25 13:19:57,721 [INFO] No commit this run
+2025-12-25 13:19:57,721 [INFO] Task finished (v4)
+2025-12-25 15:55:00,675 [INFO] Task started (v4)
+2025-12-25 15:55:00,684 [INFO] Vacation active. Skip.
+2025-12-25 15:55:00,684 [INFO] No commit this run
+2025-12-25 15:55:00,685 [INFO] Task finished (v4)
+2025-12-25 15:55:06,996 [INFO] Task started (v4)
+2025-12-25 15:55:06,999 [INFO] Vacation active. Skip.
+2025-12-25 15:55:06,999 [INFO] No commit this run
+2025-12-25 15:55:07,001 [INFO] Task finished (v4)
+2025-12-25 15:56:18,436 [INFO] Task started (v4)
+2025-12-25 15:56:18,438 [INFO] Vacation mode enabled until 2025-12-27
+2025-12-25 15:56:18,438 [INFO] Vacation active. Skip.
+2025-12-25 15:56:18,438 [INFO] No commit this run
+2025-12-25 15:56:18,439 [INFO] Task finished (v4)
+2025-12-25 15:56:35,717 [INFO] Task started (v4)
+2025-12-25 15:56:35,727 [INFO] Vacation active. Skip.
+2025-12-25 15:56:35,727 [INFO] No commit this run
+2025-12-25 15:56:35,728 [INFO] Task finished (v4)
+2025-12-25 15:57:22,794 [INFO] Task started (v4)
+2025-12-25 15:57:22,795 [INFO] Vacation active. Skip.
+2025-12-25 15:57:22,796 [INFO] No commit this run
+2025-12-25 15:57:22,796 [INFO] Task finished (v4)
+2025-12-25 15:57:35,548 [INFO] Task started (v4)
+2025-12-25 15:57:35,552 [INFO] Vacation active. Skip.
+2025-12-25 15:57:35,553 [INFO] No commit this run
+2025-12-25 15:57:35,554 [INFO] Task finished (v4)
+2025-12-25 15:57:51,631 [INFO] Task started (v4)
+2025-12-25 15:57:51,633 [INFO] Vacation active. Skip.
+2025-12-25 15:57:51,633 [INFO] No commit this run
+2025-12-25 15:57:51,634 [INFO] Task finished (v4)
+2025-12-25 15:58:59,419 [INFO] Task started (v4)
+2025-12-25 15:58:59,421 [INFO] Vacation active. Skip.
+2025-12-25 15:58:59,421 [INFO] No commit this run
+2025-12-25 15:58:59,423 [INFO] Task finished (v4)
+2025-12-25 15:59:00,731 [INFO] Task started (v4)
+2025-12-25 15:59:00,734 [INFO] Vacation active. Skip.
+2025-12-25 15:59:00,734 [INFO] No commit this run
+2025-12-25 15:59:00,735 [INFO] Task finished (v4)
+2025-12-25 15:59:27,341 [INFO] Task started (v4)
+2025-12-25 15:59:27,344 [INFO] Vacation active. Skip.
+2025-12-25 15:59:27,345 [INFO] No commit this run
+2025-12-25 15:59:27,346 [INFO] Task finished (v4)
+2025-12-25 16:00:03,455 [INFO] Task started (v4)
+2025-12-25 16:00:03,457 [INFO] Vacation active. Skip.
+2025-12-25 16:00:03,457 [INFO] No commit this run
+2025-12-25 16:00:03,458 [INFO] Task finished (v4)
+2025-12-25 16:02:06,030 [INFO] Task started (v4)
+2025-12-25 16:02:06,032 [INFO] Vacation active. Skip.
+2025-12-25 16:02:06,032 [INFO] No commit this run
+2025-12-25 16:02:06,033 [INFO] Task finished (v4)
+2025-12-25 16:02:11,865 [INFO] Task started (v4)
+2025-12-25 16:02:11,867 [INFO] Vacation active. Skip.
+2025-12-25 16:02:11,867 [INFO] No commit this run
+2025-12-25 16:02:11,868 [INFO] Task finished (v4)
+2025-12-25 16:19:57,875 [INFO] Task started (v4)
+2025-12-25 16:19:57,878 [INFO] Vacation active. Skip.
+2025-12-25 16:19:57,878 [INFO] No commit this run
+2025-12-25 16:19:57,879 [INFO] Task finished (v4)
+2025-12-25 19:00:03,683 [INFO] Task started (v4)
+2025-12-25 19:00:03,686 [INFO] Vacation active. Skip.
+2025-12-25 19:00:03,686 [INFO] No commit this run
+2025-12-25 19:00:03,687 [INFO] Task finished (v4)
+2025-12-25 19:02:05,750 [INFO] Task started (v4)
+2025-12-25 19:02:05,752 [INFO] Vacation active. Skip.
+2025-12-25 19:02:05,753 [INFO] No commit this run
+2025-12-25 19:02:05,754 [INFO] Task finished (v4)
+2025-12-25 19:02:12,034 [INFO] Task started (v4)
+2025-12-25 19:02:12,037 [INFO] Vacation active. Skip.
+2025-12-25 19:02:12,037 [INFO] No commit this run
+2025-12-25 19:02:12,038 [INFO] Task finished (v4)
+2025-12-25 19:19:57,673 [INFO] Task started (v4)
+2025-12-25 19:19:57,675 [INFO] Vacation active. Skip.
+2025-12-25 19:19:57,675 [INFO] No commit this run
+2025-12-25 19:19:57,676 [INFO] Task finished (v4)
+2025-12-25 19:29:11,595 [INFO] Task started (v4)
+2025-12-25 19:29:11,601 [INFO] Vacation active. Skip.
+2025-12-25 19:29:11,602 [INFO] No commit this run
+2025-12-25 19:29:11,609 [INFO] Task finished (v4)
+2025-12-25 19:36:25,978 [INFO] Task started (v4)
+2025-12-25 19:36:25,984 [INFO] Vacation active. Skip.
+2025-12-25 19:36:25,985 [INFO] No commit this run
+2025-12-25 19:36:25,986 [INFO] Task finished (v4)
+2025-12-25 19:44:20,618 [INFO] Task started (v4)
+2025-12-25 19:44:20,620 [INFO] Vacation active. Skip.
+2025-12-25 19:44:20,620 [INFO] No commit this run
+2025-12-25 19:44:20,620 [INFO] Task finished (v4)
+2025-12-25 19:44:41,303 [INFO] Task started (v4)
+2025-12-25 19:44:41,306 [INFO] Vacation mode enabled until 2025-12-28
+2025-12-25 19:44:41,306 [INFO] Vacation active. Skip.
+2025-12-25 19:44:41,306 [INFO] No commit this run
+2025-12-25 19:44:41,307 [INFO] Task finished (v4)
+2025-12-25 20:02:46,403 [INFO] Task started (v4)
+2025-12-25 20:02:46,404 [INFO] Vacation active. Skip.
+2025-12-25 20:02:46,404 [INFO] No commit this run
+2025-12-25 20:02:46,404 [INFO] Task finished (v4)
+2025-12-25 22:00:03,040 [INFO] Task started (v4)
+2025-12-25 22:00:03,042 [INFO] Vacation active. Skip.
+2025-12-25 22:00:03,042 [INFO] No commit this run
+2025-12-25 22:00:03,043 [INFO] Task finished (v4)
+2025-12-25 22:02:05,738 [INFO] Task started (v4)
+2025-12-25 22:02:05,741 [INFO] Vacation active. Skip.
+2025-12-25 22:02:05,741 [INFO] No commit this run
+2025-12-25 22:02:05,742 [INFO] Task finished (v4)
+2025-12-25 22:02:12,033 [INFO] Task started (v4)
+2025-12-25 22:02:12,036 [INFO] Vacation active. Skip.
+2025-12-25 22:02:12,036 [INFO] No commit this run
+2025-12-25 22:02:12,037 [INFO] Task finished (v4)
+2025-12-25 22:19:57,253 [INFO] Task started (v4)
+2025-12-25 22:19:57,257 [INFO] Vacation mode enabled until 2025-12-27
+2025-12-25 22:19:57,257 [INFO] Vacation active. Skip.
+2025-12-25 22:19:57,257 [INFO] No commit this run
+2025-12-25 22:19:57,258 [INFO] Task finished (v4)
+2025-12-25 22:28:44,588 [INFO] Task started (v4)
+2025-12-25 22:28:44,657 [INFO] Vacation active. Skip.
+2025-12-25 22:28:44,657 [INFO] No commit this run
+2025-12-25 22:28:44,666 [INFO] Task finished (v4)
+2025-12-26 01:00:03,273 [INFO] Task started (v4)
+2025-12-26 01:00:03,276 [INFO] Vacation active. Skip.
+2025-12-26 01:00:03,277 [INFO] No commit this run
+2025-12-26 01:00:03,277 [INFO] Task finished (v4)
+2025-12-26 01:02:05,266 [INFO] Task started (v4)
+2025-12-26 01:02:05,269 [INFO] Vacation active. Skip.
+2025-12-26 01:02:05,269 [INFO] No commit this run
+2025-12-26 01:02:05,270 [INFO] Task finished (v4)
+2025-12-26 01:02:12,004 [INFO] Task started (v4)
+2025-12-26 01:02:12,010 [INFO] Vacation active. Skip.
+2025-12-26 01:02:12,010 [INFO] No commit this run
+2025-12-26 01:02:12,012 [INFO] Task finished (v4)
+2025-12-26 01:19:58,512 [INFO] Task started (v4)
+2025-12-26 01:19:58,519 [INFO] Vacation active. Skip.
+2025-12-26 01:19:58,519 [INFO] No commit this run
+2025-12-26 01:19:58,520 [INFO] Task finished (v4)
+2025-12-26 01:28:44,155 [INFO] Task started (v4)
+2025-12-26 01:28:44,159 [INFO] Vacation mode enabled until 2025-12-31
+2025-12-26 01:28:44,159 [INFO] Vacation active. Skip.
+2025-12-26 01:28:44,159 [INFO] No commit this run
+2025-12-26 01:28:44,160 [INFO] Task finished (v4)
+2025-12-26 19:24:22,145 [INFO] Task started (v4)
+2025-12-26 19:24:22,166 [INFO] Vacation active. Skip.
+2025-12-26 19:24:22,166 [INFO] No commit this run
+2025-12-26 19:24:22,168 [INFO] Task finished (v4)
+2025-12-26 22:00:03,369 [INFO] Task started (v4)
+2025-12-26 22:00:03,392 [INFO] Vacation active. Skip.
+2025-12-26 22:00:03,392 [INFO] No commit this run
+2025-12-26 22:00:03,393 [INFO] Task finished (v4)
+2025-12-26 22:02:47,013 [INFO] Task started (v4)
+2025-12-26 22:02:47,032 [INFO] Vacation active. Skip.
+2025-12-26 22:02:47,032 [INFO] No commit this run
+2025-12-26 22:02:47,035 [INFO] Task finished (v4)
+2025-12-26 23:24:12,035 [INFO] Task started (v4.1)
+2025-12-26 23:24:12,052 [INFO] Vacation active. Skip commit.
+2025-12-26 23:24:12,053 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:24:12,053 [INFO] No commit this run
+2025-12-26 23:24:12,055 [INFO] Task finished (v4.1)
+2025-12-26 23:24:57,686 [INFO] Task started (v4.1)
+2025-12-26 23:24:57,721 [INFO] Vacation active. Skip commit.
+2025-12-26 23:24:57,721 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:24:57,722 [INFO] No commit this run
+2025-12-26 23:24:57,729 [INFO] Task finished (v4.1)
+2025-12-26 23:25:06,518 [INFO] Task started (v4.1)
+2025-12-26 23:25:06,525 [INFO] Vacation active. Skip commit.
+2025-12-26 23:25:06,526 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:25:06,526 [INFO] No commit this run
+2025-12-26 23:25:06,528 [INFO] Task finished (v4.1)
+2025-12-26 23:25:18,325 [INFO] Task started (v4.1)
+2025-12-26 23:25:18,329 [INFO] Vacation active. Skip commit.
+2025-12-26 23:25:18,329 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:25:18,329 [INFO] No commit this run
+2025-12-26 23:25:18,331 [INFO] Task finished (v4.1)
+2025-12-26 23:25:36,616 [INFO] Task started (v4.1)
+2025-12-26 23:25:36,619 [INFO] Vacation active. Skip commit.
+2025-12-26 23:25:36,619 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:25:36,619 [INFO] No commit this run
+2025-12-26 23:25:36,620 [INFO] Task finished (v4.1)
+2025-12-26 23:26:12,677 [INFO] Task started (v4.1)
+2025-12-26 23:26:31,877 [INFO] Task started (v4.1)
+2025-12-26 23:26:31,878 [INFO] Another run in progress. Exit.
+2025-12-26 23:26:51,132 [INFO] Task started (v4.1)
+2025-12-26 23:26:51,133 [INFO] Another run in progress. Exit.
+2025-12-26 23:33:52,325 [INFO] Task started (v4.1)
+2025-12-26 23:33:52,328 [INFO] Vacation active. Skip commit.
+2025-12-26 23:33:52,328 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:33:52,329 [INFO] No commit this run
+2025-12-26 23:33:52,332 [INFO] Task finished (v4.1)
+2025-12-26 23:36:17,161 [INFO] Task started (v4.1)
+2025-12-26 23:36:17,162 [INFO] Vacation active. Skip commit.
+2025-12-26 23:36:17,163 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:36:17,163 [INFO] No commit this run
+2025-12-26 23:36:17,164 [INFO] Task finished (v4.1)
+2025-12-26 23:36:21,496 [INFO] Task started (v4.1)
+2025-12-26 23:36:21,498 [INFO] Vacation active. Skip commit.
+2025-12-26 23:36:21,498 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:36:21,498 [INFO] No commit this run
+2025-12-26 23:36:21,499 [INFO] Task finished (v4.1)
+2025-12-26 23:36:22,877 [INFO] Task started (v4.1)
+2025-12-26 23:36:22,878 [INFO] Vacation active. Skip commit.
+2025-12-26 23:36:22,879 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:36:22,879 [INFO] No commit this run
+2025-12-26 23:36:22,880 [INFO] Task finished (v4.1)
+2025-12-26 23:36:23,865 [INFO] Task started (v4.1)
+2025-12-26 23:36:23,867 [INFO] Vacation active. Skip commit.
+2025-12-26 23:36:23,867 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:36:23,867 [INFO] No commit this run
+2025-12-26 23:36:23,868 [INFO] Task finished (v4.1)
+2025-12-26 23:36:25,111 [INFO] Task started (v4.1)
+2025-12-26 23:36:25,113 [INFO] Vacation active. Skip commit.
+2025-12-26 23:36:25,113 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:36:25,113 [INFO] No commit this run
+2025-12-26 23:36:25,114 [INFO] Task finished (v4.1)
+2025-12-26 23:36:26,695 [INFO] Task started (v4.1)
+2025-12-26 23:36:26,697 [INFO] Vacation active. Skip commit.
+2025-12-26 23:36:26,698 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:36:26,698 [INFO] No commit this run
+2025-12-26 23:36:26,699 [INFO] Task finished (v4.1)
+2025-12-26 23:51:16,876 [INFO] Task started (v4.1)
+2025-12-26 23:51:16,877 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:16,890 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:16,890 [INFO] No commit this run
+2025-12-26 23:51:16,891 [INFO] Task finished (v4.1)
+2025-12-26 23:51:20,969 [INFO] Task started (v4.1)
+2025-12-26 23:51:20,971 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:20,971 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:20,971 [INFO] No commit this run
+2025-12-26 23:51:20,972 [INFO] Task finished (v4.1)
+2025-12-26 23:51:22,049 [INFO] Task started (v4.1)
+2025-12-26 23:51:22,050 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:22,050 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:22,050 [INFO] No commit this run
+2025-12-26 23:51:22,051 [INFO] Task finished (v4.1)
+2025-12-26 23:51:22,572 [INFO] Task started (v4.1)
+2025-12-26 23:51:22,574 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:22,574 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:22,574 [INFO] No commit this run
+2025-12-26 23:51:22,575 [INFO] Task finished (v4.1)
+2025-12-26 23:51:23,150 [INFO] Task started (v4.1)
+2025-12-26 23:51:23,151 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:23,151 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:23,151 [INFO] No commit this run
+2025-12-26 23:51:23,152 [INFO] Task finished (v4.1)
+2025-12-26 23:51:23,688 [INFO] Task started (v4.1)
+2025-12-26 23:51:23,689 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:23,689 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:23,689 [INFO] No commit this run
+2025-12-26 23:51:23,691 [INFO] Task finished (v4.1)
+2025-12-26 23:51:24,184 [INFO] Task started (v4.1)
+2025-12-26 23:51:24,185 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:24,185 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:24,185 [INFO] No commit this run
+2025-12-26 23:51:24,186 [INFO] Task finished (v4.1)
+2025-12-26 23:51:24,604 [INFO] Task started (v4.1)
+2025-12-26 23:51:24,606 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:24,607 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:24,607 [INFO] No commit this run
+2025-12-26 23:51:24,608 [INFO] Task finished (v4.1)
+2025-12-26 23:51:24,953 [INFO] Task started (v4.1)
+2025-12-26 23:51:24,956 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:24,956 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:24,957 [INFO] No commit this run
+2025-12-26 23:51:24,958 [INFO] Task finished (v4.1)
+2025-12-26 23:51:25,232 [INFO] Task started (v4.1)
+2025-12-26 23:51:25,236 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:25,236 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:25,236 [INFO] No commit this run
+2025-12-26 23:51:25,237 [INFO] Task finished (v4.1)
+2025-12-26 23:51:25,498 [INFO] Task started (v4.1)
+2025-12-26 23:51:25,499 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:25,499 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:25,499 [INFO] No commit this run
+2025-12-26 23:51:25,501 [INFO] Task finished (v4.1)
+2025-12-26 23:51:25,753 [INFO] Task started (v4.1)
+2025-12-26 23:51:25,754 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:25,754 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:25,754 [INFO] No commit this run
+2025-12-26 23:51:25,755 [INFO] Task finished (v4.1)
+2025-12-26 23:51:26,006 [INFO] Task started (v4.1)
+2025-12-26 23:51:26,007 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:26,007 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:26,008 [INFO] No commit this run
+2025-12-26 23:51:26,009 [INFO] Task finished (v4.1)
+2025-12-26 23:51:26,271 [INFO] Task started (v4.1)
+2025-12-26 23:51:26,274 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:26,274 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:26,274 [INFO] No commit this run
+2025-12-26 23:51:26,275 [INFO] Task finished (v4.1)
+2025-12-26 23:51:26,565 [INFO] Task started (v4.1)
+2025-12-26 23:51:26,566 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:26,567 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:26,567 [INFO] No commit this run
+2025-12-26 23:51:26,568 [INFO] Task finished (v4.1)
+2025-12-26 23:51:29,128 [INFO] Task started (v4.1)
+2025-12-26 23:51:29,130 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:29,130 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:29,130 [INFO] No commit this run
+2025-12-26 23:51:29,131 [INFO] Task finished (v4.1)
+2025-12-26 23:51:30,093 [INFO] Task started (v4.1)
+2025-12-26 23:51:30,095 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:30,095 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:30,095 [INFO] No commit this run
+2025-12-26 23:51:30,097 [INFO] Task finished (v4.1)
+2025-12-26 23:51:31,263 [INFO] Task started (v4.1)
+2025-12-26 23:51:31,265 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:31,265 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:31,265 [INFO] No commit this run
+2025-12-26 23:51:31,266 [INFO] Task finished (v4.1)
+2025-12-26 23:51:32,644 [INFO] Task started (v4.1)
+2025-12-26 23:51:32,645 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:32,645 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:32,645 [INFO] No commit this run
+2025-12-26 23:51:32,646 [INFO] Task finished (v4.1)
+2025-12-26 23:51:34,878 [INFO] Task started (v4.1)
+2025-12-26 23:51:34,879 [INFO] Vacation active. Skip commit.
+2025-12-26 23:51:34,879 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:51:34,879 [INFO] No commit this run
+2025-12-26 23:51:34,880 [INFO] Task finished (v4.1)
+2025-12-26 23:53:04,231 [INFO] Task started (v4.1)
+2025-12-26 23:53:04,232 [INFO] Vacation active. Skip commit.
+2025-12-26 23:53:04,232 [INFO] Burnout updated \u2192 0.00
+2025-12-26 23:53:04,232 [INFO] No commit this run
+2025-12-26 23:53:04,232 [INFO] Task finished (v4.1)
