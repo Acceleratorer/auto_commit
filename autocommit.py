@@ -309,3 +309,4 @@ if __name__ == "__main__":
         save_json(STATS_FILE, stats)
         release_lock()
         log("Task finished (v4.1)")
+
