@@ -20,7 +20,7 @@ from pathlib import Path
 from collections import Counter
 
 # ===================== CONFIG =====================
-REPO_PATH = Path(r"E:/Code/Github/autocommit")
+REPO_PATH = Path(__file__).parent.resolve()
 
 LOG_FILE = REPO_PATH / "autocommit.log"
 STATS_FILE = REPO_PATH / "commit_stats.json"
