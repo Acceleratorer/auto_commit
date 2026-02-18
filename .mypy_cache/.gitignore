@@ -1,0 +1,19 @@
+# Automatically created by mypy
+# Logs
+*.log
+log_*.txt
+
+# Runtime state
+commit_stats.json
+message_history.json
+heartbeat.txt
+.autocommit.lock
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
