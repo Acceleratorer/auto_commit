@@ -1,6 +1,6 @@
 # Automatically created by mypy
 # Logs
-*.log
+
 log_*.txt
 
 # Runtime state
