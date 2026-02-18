@@ -1,6 +1,7 @@
 # Automatically created by mypy
 # Logs
-*.txt
+
+log_*.txt
 
 # Runtime state
 commit_stats.json
