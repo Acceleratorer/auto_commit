@@ -1,13 +1,4 @@
 # Automatically created by mypy
-# Logs
-autocommit.log
-
-# Runtime state
-commit_stats.json
-message_history.json
-heartbeat.txt
-.autocommit.lock
-
 # Python
 __pycache__/
 *.pyc
