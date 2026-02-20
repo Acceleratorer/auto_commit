@@ -1,10 +1,10 @@
 {
   "daily_commits": {
     "2026-02-18": 5,
-    "2026-02-19": 4
+    "2026-02-19": 5
   },
-  "burnout": 0.48,
+  "burnout": 0.03999999999999995,
   "vacation_until": null,
   "cooldown_until": null,
-  "last_active_day": "2026-02-19"
+  "last_active_day": "2026-02-20"
 }
