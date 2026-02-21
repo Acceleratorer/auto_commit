@@ -647,3 +647,31 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2026-02-21 19:00:03,242 [INFO] Burnout updated \u2192 0.00
 2026-02-21 19:00:03,243 [INFO] No commit this run
 2026-02-21 19:00:03,243 [INFO] Task finished (v4.1)
+2026-02-21 22:00:02,782 [INFO] Task started (v4.1)
+2026-02-21 22:00:02,785 [INFO] Vacation roll=0.327, prob=0.003
+2026-02-21 22:00:02,785 [INFO] Commit prob=0.42, decision=True
+2026-02-21 22:00:03,493 [INFO] [main d50c68a] Fix small edge case
+ 6 files changed, 35 insertions(+), 5 deletions(-)
+2026-02-21 22:00:07,393 [WARNING] To https://github.com/Acceleratorer/auto_commit
+   0554900..d50c68a  main -> main
+2026-02-21 22:00:07,394 [INFO] Burnout updated \u2192 0.12
+2026-02-21 22:00:07,419 [INFO] Committed: Fix small edge case
+2026-02-21 22:00:07,420 [INFO] Task finished (v4.1)
+2026-02-21 22:17:30,784 [INFO] Task started (v4.1)
+2026-02-21 22:17:30,786 [INFO] Vacation roll=0.880, prob=0.006
+2026-02-21 22:17:30,786 [INFO] Commit prob=0.39, decision=False
+2026-02-21 22:17:30,786 [INFO] Burnout updated \u2192 0.04
+2026-02-21 22:17:30,786 [INFO] No commit this run
+2026-02-21 22:17:30,787 [INFO] Task finished (v4.1)
+2026-02-22 01:00:02,817 [INFO] Task started (v4.1)
+2026-02-22 01:00:02,819 [INFO] Vacation roll=0.400, prob=0.004
+2026-02-22 01:00:02,819 [INFO] Commit prob=0.05, decision=False
+2026-02-22 01:00:02,819 [INFO] Burnout updated \u2192 0.00
+2026-02-22 01:00:02,819 [INFO] No commit this run
+2026-02-22 01:00:02,820 [INFO] Task finished (v4.1)
+2026-02-22 01:17:31,146 [INFO] Task started (v4.1)
+2026-02-22 01:17:31,150 [INFO] Vacation roll=0.240, prob=0.003
+2026-02-22 01:17:31,150 [INFO] Commit prob=0.05, decision=False
+2026-02-22 01:17:31,150 [INFO] Burnout updated \u2192 0.00
+2026-02-22 01:17:31,150 [INFO] No commit this run
+2026-02-22 01:17:31,151 [INFO] Task finished (v4.1)
