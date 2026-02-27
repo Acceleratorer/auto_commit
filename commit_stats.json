@@ -5,10 +5,10 @@
     "2026-02-20": 5,
     "2026-02-21": 2,
     "2026-02-22": 5,
-    "2026-02-23": 3
+    "2026-02-23": 4
   },
-  "burnout": 0.84,
+  "burnout": 0.0,
   "vacation_until": null,
-  "cooldown_until": null,
-  "last_active_day": "2026-02-23"
+  "cooldown_until": "2026-02-28",
+  "last_active_day": "2026-02-27"
 }
