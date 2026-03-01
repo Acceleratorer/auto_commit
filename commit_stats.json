@@ -8,9 +8,9 @@
     "2026-02-23": 4,
     "2026-02-27": 1,
     "2026-02-28": 5,
-    "2026-03-01": 1
+    "2026-03-01": 2
   },
-  "burnout": 0.0,
+  "burnout": 0.12,
   "vacation_until": null,
   "cooldown_until": null,
   "last_active_day": "2026-03-01"
