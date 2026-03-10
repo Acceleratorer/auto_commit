@@ -1680,3 +1680,55 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2026-03-09 22:00:03,696 [INFO] Burnout updated \u2192 0.24
 2026-03-09 22:00:03,696 [INFO] No commit this run
 2026-03-09 22:00:03,697 [INFO] Task finished (v4.1)
+2026-03-09 22:27:43,855 [INFO] Task started (v4.1)
+2026-03-09 22:27:43,870 [INFO] Vacation roll=0.872, prob=0.009
+2026-03-09 22:27:43,871 [INFO] Commit prob=0.72, decision=True
+2026-03-09 22:27:44,381 [INFO] [main 01e4167] Fix small edge case
+ 6 files changed, 25 insertions(+), 5 deletions(-)
+2026-03-09 22:27:48,359 [WARNING] To https://github.com/Acceleratorer/auto_commit
+   3551768..01e4167  main -> main
+2026-03-09 22:27:48,360 [INFO] Burnout updated \u2192 0.36
+2026-03-09 22:27:48,360 [INFO] Committed: Fix small edge case
+2026-03-09 22:27:48,361 [INFO] Task finished (v4.1)
+2026-03-10 01:00:03,001 [INFO] Task started (v4.1)
+2026-03-10 01:00:03,012 [INFO] Vacation roll=0.520, prob=0.013
+2026-03-10 01:00:03,013 [INFO] Commit prob=0.08, decision=False
+2026-03-10 01:00:03,013 [INFO] Burnout updated \u2192 0.28
+2026-03-10 01:00:03,013 [INFO] No commit this run
+2026-03-10 01:00:03,013 [INFO] Task finished (v4.1)
+2026-03-10 01:27:48,322 [INFO] Task started (v4.1)
+2026-03-10 01:27:48,333 [INFO] Vacation roll=0.263, prob=0.011
+2026-03-10 01:27:48,333 [INFO] Commit prob=0.09, decision=False
+2026-03-10 01:27:48,333 [INFO] Burnout updated \u2192 0.20
+2026-03-10 01:27:48,333 [INFO] No commit this run
+2026-03-10 01:27:48,335 [INFO] Task finished (v4.1)
+2026-03-10 04:00:02,700 [INFO] Task started (v4.1)
+2026-03-10 04:00:02,710 [INFO] Vacation roll=0.828, prob=0.008
+2026-03-10 04:00:02,710 [INFO] Commit prob=0.09, decision=False
+2026-03-10 04:00:02,710 [INFO] Burnout updated \u2192 0.12
+2026-03-10 04:00:02,710 [INFO] No commit this run
+2026-03-10 04:00:02,711 [INFO] Task finished (v4.1)
+2026-03-10 04:27:43,535 [INFO] Task started (v4.1)
+2026-03-10 04:27:43,545 [INFO] Vacation roll=0.598, prob=0.006
+2026-03-10 04:27:43,545 [INFO] Commit prob=0.10, decision=False
+2026-03-10 04:27:43,545 [INFO] Burnout updated \u2192 0.04
+2026-03-10 04:27:43,545 [INFO] No commit this run
+2026-03-10 04:27:43,546 [INFO] Task finished (v4.1)
+2026-03-10 07:00:02,510 [INFO] Task started (v4.1)
+2026-03-10 07:00:02,518 [INFO] Vacation roll=0.791, prob=0.004
+2026-03-10 07:00:02,518 [INFO] Commit prob=0.62, decision=False
+2026-03-10 07:00:02,518 [INFO] Burnout updated \u2192 0.00
+2026-03-10 07:00:02,518 [INFO] No commit this run
+2026-03-10 07:00:02,519 [INFO] Task finished (v4.1)
+2026-03-10 07:27:43,537 [INFO] Task started (v4.1)
+2026-03-10 07:27:43,547 [INFO] Vacation roll=0.915, prob=0.003
+2026-03-10 07:27:43,547 [INFO] Commit prob=0.63, decision=False
+2026-03-10 07:27:43,547 [INFO] Burnout updated \u2192 0.00
+2026-03-10 07:27:43,547 [INFO] No commit this run
+2026-03-10 07:27:43,548 [INFO] Task finished (v4.1)
+2026-03-10 10:00:02,437 [INFO] Task started (v4.1)
+2026-03-10 10:00:02,440 [INFO] Vacation roll=0.181, prob=0.003
+2026-03-10 10:00:02,440 [INFO] Commit prob=0.63, decision=False
+2026-03-10 10:00:02,440 [INFO] Burnout updated \u2192 0.00
+2026-03-10 10:00:02,440 [INFO] No commit this run
+2026-03-10 10:00:02,440 [INFO] Task finished (v4.1)
