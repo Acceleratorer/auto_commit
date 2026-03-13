@@ -1932,3 +1932,37 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2026-03-12 19:00:04,694 [INFO] Burnout updated \u2192 0.60
 2026-03-12 19:00:04,694 [INFO] Committed: Fix small edge case
 2026-03-12 19:00:04,694 [INFO] Task finished (v4.1)
+2026-03-12 22:00:02,847 [INFO] Task started (v4.1)
+2026-03-12 22:00:02,857 [INFO] Vacation roll=0.494, prob=0.019
+2026-03-12 22:00:02,857 [INFO] Commit prob=0.54, decision=True
+2026-03-12 22:00:04,813 [INFO] [main 58d5ab8] Fix small edge case
+ 6 files changed, 17 insertions(+), 5 deletions(-)
+2026-03-12 22:00:09,215 [WARNING] To https://github.com/Acceleratorer/auto_commit
+   6fc13ec..58d5ab8  main -> main
+2026-03-12 22:00:09,217 [INFO] Burnout updated \u2192 0.72
+2026-03-12 22:00:09,218 [INFO] Committed: Fix small edge case
+2026-03-12 22:00:09,220 [INFO] Task finished (v4.1)
+2026-03-12 22:00:49,254 [INFO] Task started (v4.1)
+2026-03-12 22:00:49,279 [INFO] Vacation roll=0.447, prob=0.022
+2026-03-12 22:00:49,279 [INFO] Commit prob=0.48, decision=False
+2026-03-12 22:00:49,279 [INFO] Burnout updated \u2192 0.64
+2026-03-12 22:00:49,279 [INFO] No commit this run
+2026-03-12 22:00:49,280 [INFO] Task finished (v4.1)
+2026-03-13 01:00:02,580 [INFO] Task started (v4.1)
+2026-03-13 01:00:02,589 [INFO] Vacation roll=0.756, prob=0.020
+2026-03-13 01:00:02,589 [INFO] Commit prob=0.07, decision=False
+2026-03-13 01:00:02,589 [INFO] Burnout updated \u2192 0.56
+2026-03-13 01:00:02,589 [INFO] No commit this run
+2026-03-13 01:00:02,590 [INFO] Task finished (v4.1)
+2026-03-13 01:00:49,006 [INFO] Task started (v4.1)
+2026-03-13 01:00:49,015 [INFO] Vacation roll=0.340, prob=0.018
+2026-03-13 01:00:49,015 [INFO] Commit prob=0.07, decision=False
+2026-03-13 01:00:49,015 [INFO] Burnout updated \u2192 0.48
+2026-03-13 01:00:49,015 [INFO] No commit this run
+2026-03-13 01:00:49,016 [INFO] Task finished (v4.1)
+2026-03-13 10:16:25,680 [INFO] Task started (v4.1)
+2026-03-13 10:16:25,700 [INFO] Vacation roll=0.989, prob=0.016
+2026-03-13 10:16:25,700 [INFO] Commit prob=0.45, decision=False
+2026-03-13 10:16:25,700 [INFO] Burnout updated \u2192 0.40
+2026-03-13 10:16:25,700 [INFO] No commit this run
+2026-03-13 10:16:25,702 [INFO] Task finished (v4.1)
