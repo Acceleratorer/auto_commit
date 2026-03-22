@@ -2577,3 +2577,22 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2026-03-22 10:00:02,344 [INFO] Burnout updated \u2192 0.00
 2026-03-22 10:00:02,344 [INFO] No commit this run
 2026-03-22 10:00:02,345 [INFO] Task finished (v4.1)
+2026-03-22 13:00:02,345 [INFO] Task started (v4.1)
+2026-03-22 13:00:02,348 [INFO] Commit prob=0.53, decision=True
+2026-03-22 13:00:02,607 [INFO] [main f8f0914] Fix small edge case
+ 4 files changed, 26 insertions(+), 2 deletions(-)
+2026-03-22 13:00:04,409 [WARNING] To https://github.com/Acceleratorer/auto_commit
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Acceleratorer/auto_commit'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2026-03-22 13:00:04,409 [ERROR] Fatal error: Command failed
+2026-03-22 13:00:04,410 [INFO] Task finished (v4.1)
+2026-03-22 16:00:02,405 [INFO] Task started (v4.1)
+2026-03-22 16:00:02,408 [INFO] Commit prob=0.53, decision=False
+2026-03-22 16:00:02,408 [INFO] Burnout updated \u2192 0.00
+2026-03-22 16:00:02,408 [INFO] No commit this run
+2026-03-22 16:00:02,408 [INFO] Task finished (v4.1)
