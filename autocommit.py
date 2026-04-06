@@ -252,18 +252,27 @@ def record_message(msg):
 
 # ================= GIT ============================
 
+def ensure_branch():
+    res = run(["git", "branch", "--show-current"], check=False)
+    branch = res.stdout.strip()
+
+    if not branch:
+        log("Detached HEAD detected. Switching to main...", logging.WARNING)
+        run(["git", "checkout", "main"])
+
 def ensure_diff():
     ts = dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     HEARTBEAT_FILE.write_text(f"update at {ts}\n")
 
 
 def do_commit(stats):
+    ensure_branch()
     ensure_diff()
     run(["git", "add", "."])
 
     msg = random.choice(load_messages())
     run(["git", "commit", "-m", msg], check=False)
-    run(["git", "push"])
+    run(["git", "push"], check = False ) 
 
     record_commit(stats)
     record_message(msg)
