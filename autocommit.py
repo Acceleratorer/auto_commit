@@ -120,7 +120,15 @@ def release_lock():
 
 def load_json(path, default):
     if path.exists():
-        return json.loads(path.read_text())
+        try:
+            content = path.read_text().strip()
+
+            if not content:
+                return default
+            return json.loads(content)
+        except json.JSONDecodeError:
+            
+            return default
     return default
 
 

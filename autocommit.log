@@ -53,3 +53,84 @@
 2026-04-07 22:00:06,117 [INFO] Burnout updated \u2192 0.20
 2026-04-07 22:00:06,117 [INFO] Committed: Refactor logic
 2026-04-07 22:00:06,118 [INFO] Task finished (v4.1)
+2026-04-07 22:04:05,919 [INFO] Task started (v4.1)
+2026-04-07 22:04:05,927 [INFO] Vacation roll=0.888, prob=0.008
+2026-04-07 22:04:05,927 [INFO] Commit prob=0.74, decision=True
+2026-04-07 22:04:05,979 [INFO] main
+2026-04-07 22:04:06,146 [INFO] [main 8ee0035] Refactor logic
+ 6 files changed, 18 insertions(+), 5 deletions(-)
+2026-04-08 16:00:02,518 [INFO] Task started (v4.1)
+2026-04-08 16:00:02,526 [INFO] Vacation roll=0.120, prob=0.008
+2026-04-08 16:00:02,526 [INFO] Commit prob=0.93, decision=True
+2026-04-08 16:00:02,604 [INFO] main
+2026-04-08 16:00:02,680 [ERROR] Fatal error: Expecting value: line 1 column 1 (char 0)
+2026-04-08 16:00:02,681 [INFO] Task finished (v4.1)
+2026-04-08 19:00:02,332 [INFO] Task started (v4.1)
+2026-04-08 19:00:02,334 [INFO] Vacation roll=0.488, prob=0.008
+2026-04-08 19:00:02,334 [INFO] Commit prob=0.74, decision=False
+2026-04-08 19:00:02,334 [INFO] Burnout updated \u2192 0.12
+2026-04-08 19:00:02,334 [INFO] No commit this run
+2026-04-08 19:00:02,335 [INFO] Task finished (v4.1)
+2026-04-08 22:00:03,461 [INFO] Task started (v4.1)
+2026-04-08 22:00:03,488 [INFO] Vacation roll=0.467, prob=0.006
+2026-04-08 22:00:03,489 [INFO] Commit prob=0.78, decision=True
+2026-04-08 22:00:03,641 [INFO] main
+2026-04-08 22:00:03,823 [ERROR] Fatal error: Expecting value: line 1 column 1 (char 0)
+2026-04-08 22:00:03,824 [INFO] Task finished (v4.1)
+2026-04-08 22:03:14,070 [INFO] Task started (v4.1)
+2026-04-08 22:03:14,076 [INFO] Vacation roll=0.539, prob=0.006
+2026-04-08 22:03:14,077 [INFO] Commit prob=0.78, decision=True
+2026-04-08 22:03:14,373 [INFO] main
+2026-04-08 22:03:14,603 [ERROR] Fatal error: Expecting value: line 1 column 1 (char 0)
+2026-04-08 22:03:14,604 [INFO] Task finished (v4.1)
+2026-04-09 01:00:05,188 [INFO] Task started (v4.1)
+2026-04-09 01:00:05,206 [INFO] Vacation roll=0.931, prob=0.006
+2026-04-09 01:00:05,206 [INFO] Commit prob=0.10, decision=True
+2026-04-09 01:00:05,473 [INFO] main
+2026-04-09 01:00:05,658 [ERROR] Fatal error: Command failed
+2026-04-09 16:00:03,306 [INFO] Task started (v4.1)
+2026-04-09 19:00:02,733 [INFO] Task started (v4.1)
+2026-04-09 22:00:04,769 [INFO] Task started (v4.1)
+2026-04-09 22:14:46,110 [INFO] Task started (v4.1)
+2026-04-10 01:37:58,143 [INFO] Task started (v4.1)
+2026-04-10 10:31:16,242 [INFO] Task started (v4.1)
+2026-04-10 22:00:04,345 [INFO] Task started (v4.1)
+2026-04-10 22:23:31,460 [INFO] Task started (v4.1)
+2026-04-11 01:00:02,458 [INFO] Task started (v4.1)
+2026-04-11 19:00:02,473 [INFO] Task started (v4.1)
+2026-04-11 22:00:02,524 [INFO] Task started (v4.1)
+2026-04-11 22:17:02,846 [INFO] Task started (v4.1)
+2026-04-12 01:00:02,478 [INFO] Task started (v4.1)
+2026-04-12 01:17:03,198 [INFO] Task started (v4.1)
+2026-04-12 04:00:02,594 [INFO] Task started (v4.1)
+2026-04-12 07:00:02,289 [INFO] Task started (v4.1)
+2026-04-12 10:00:02,263 [INFO] Task started (v4.1)
+2026-04-12 13:00:02,286 [INFO] Task started (v4.1)
+2026-04-12 16:00:02,203 [INFO] Task started (v4.1)
+2026-04-12 23:20:00,662 [INFO] Task started (v4.1)
+2026-04-13 00:03:53,048 [INFO] Task started (v4.1)
+2026-04-13 00:04:41,276 [INFO] Task started (v4.1)
+2026-04-13 00:04:41,279 [INFO] Another run in progress. Exit.
+2026-04-13 00:04:41,642 [INFO] Task started (v4.1)
+2026-04-13 00:04:41,642 [INFO] Another run in progress. Exit.
+2026-04-13 00:05:04,986 [INFO] Task started (v4.1)
+2026-04-13 00:05:04,986 [INFO] Another run in progress. Exit.
+2026-04-13 00:05:29,854 [INFO] Task started (v4.1)
+2026-04-13 00:18:32,846 [INFO] Task started (v4.1)
+2026-04-13 00:18:32,848 [INFO] Vacation roll=0.041, prob=0.003
+2026-04-13 00:18:32,848 [INFO] Commit prob=0.11, decision=False
+2026-04-13 00:18:32,848 [INFO] Burnout updated \u2192 0.00
+2026-04-13 00:18:32,848 [INFO] No commit this run
+2026-04-13 00:18:32,849 [INFO] Task finished (v4.1)
+2026-04-13 00:18:46,490 [INFO] Task started (v4.1)
+2026-04-13 00:18:46,492 [INFO] Vacation roll=0.195, prob=0.003
+2026-04-13 00:18:46,492 [INFO] Commit prob=0.11, decision=False
+2026-04-13 00:18:46,492 [INFO] Burnout updated \u2192 0.00
+2026-04-13 00:18:46,492 [INFO] No commit this run
+2026-04-13 00:18:46,493 [INFO] Task finished (v4.1)
+2026-04-13 01:00:02,426 [INFO] Task started (v4.1)
+2026-04-13 01:00:02,434 [INFO] Vacation roll=0.473, prob=0.003
+2026-04-13 01:00:02,435 [INFO] Commit prob=0.11, decision=False
+2026-04-13 01:00:02,435 [INFO] Burnout updated \u2192 0.00
+2026-04-13 01:00:02,435 [INFO] No commit this run
+2026-04-13 01:00:02,435 [INFO] Task finished (v4.1)
