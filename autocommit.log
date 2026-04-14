@@ -221,3 +221,9 @@
 2026-04-14 07:29:36,472 [INFO] Burnout updated \u2192 0.08
 2026-04-14 07:29:36,473 [INFO] No commit this run
 2026-04-14 07:29:36,473 [INFO] Task finished (v4.1)
+2026-04-14 11:38:45,566 [INFO] Task started (v4.1)
+2026-04-14 11:38:45,577 [INFO] Vacation roll=0.319, prob=0.005
+2026-04-14 11:38:45,577 [INFO] Commit prob=0.60, decision=True
+2026-04-14 11:38:46,362 [INFO] main
+2026-04-14 11:38:49,568 [INFO] [main 789101e] Minor cleanup
+ 6 files changed, 26 insertions(+), 5 deletions(-)
