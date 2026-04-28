@@ -925,3 +925,81 @@
 2026-04-25 19:00:02,509 [INFO] Burnout updated \u2192 0.24
 2026-04-25 19:00:02,509 [INFO] No commit this run
 2026-04-25 19:00:02,509 [INFO] Task finished (v4.1)
+2026-04-25 19:09:28,374 [INFO] Task started (v4.1)
+2026-04-25 19:09:28,381 [INFO] Vacation roll=0.736, prob=0.009
+2026-04-25 19:09:28,381 [INFO] Commit prob=0.36, decision=True
+2026-04-25 19:09:28,420 [INFO] main
+2026-04-25 19:09:28,559 [INFO] [main 10a61ee] Minor cleanup
+ 6 files changed, 26 insertions(+), 5 deletions(-)
+2026-04-25 19:09:30,883 [WARNING] To https://github.com/Acceleratorer/auto_commit
+   d8b61b6..10a61ee  main -> main
+2026-04-25 19:09:30,884 [INFO] Burnout updated \u2192 0.36
+2026-04-25 19:09:30,884 [INFO] Committed: Minor cleanup
+2026-04-25 19:09:30,885 [INFO] Task finished (v4.1)
+2026-04-25 22:00:06,254 [INFO] Task started (v4.1)
+2026-04-25 22:00:06,286 [INFO] Vacation roll=0.003, prob=0.013
+2026-04-25 22:00:06,287 [INFO] Vacation started 2 days, cooldown 4 days
+2026-04-25 22:00:06,287 [INFO] Vacation active. Skip commit.
+2026-04-25 22:00:06,287 [INFO] Burnout updated \u2192 0.28
+2026-04-25 22:00:06,287 [INFO] No commit this run
+2026-04-25 22:00:06,289 [INFO] Task finished (v4.1)
+2026-04-25 22:04:22,197 [INFO] Task started (v4.1)
+2026-04-25 22:04:22,209 [INFO] Vacation active. Skip commit.
+2026-04-25 22:04:22,210 [INFO] Burnout updated \u2192 0.20
+2026-04-25 22:04:22,210 [INFO] No commit this run
+2026-04-25 22:04:22,211 [INFO] Task finished (v4.1)
+2026-04-25 22:09:30,510 [INFO] Task started (v4.1)
+2026-04-25 22:09:30,535 [INFO] Vacation active. Skip commit.
+2026-04-25 22:09:30,538 [INFO] Burnout updated \u2192 0.12
+2026-04-25 22:09:30,538 [INFO] No commit this run
+2026-04-25 22:09:30,541 [INFO] Task finished (v4.1)
+2026-04-26 16:00:02,821 [INFO] Task started (v4.1)
+2026-04-26 16:00:02,828 [INFO] Vacation active. Skip commit.
+2026-04-26 16:00:02,829 [INFO] Burnout updated \u2192 0.04
+2026-04-26 16:00:02,829 [INFO] No commit this run
+2026-04-26 16:00:02,829 [INFO] Task finished (v4.1)
+2026-04-26 19:00:02,308 [INFO] Task started (v4.1)
+2026-04-26 19:00:02,315 [INFO] Vacation active. Skip commit.
+2026-04-26 19:00:02,315 [INFO] Burnout updated \u2192 0.00
+2026-04-26 19:00:02,315 [INFO] No commit this run
+2026-04-26 19:00:02,316 [INFO] Task finished (v4.1)
+2026-04-26 22:00:02,839 [INFO] Task started (v4.1)
+2026-04-26 22:00:02,851 [INFO] Vacation active. Skip commit.
+2026-04-26 22:00:02,851 [INFO] Burnout updated \u2192 0.00
+2026-04-26 22:00:02,851 [INFO] No commit this run
+2026-04-26 22:00:02,852 [INFO] Task finished (v4.1)
+2026-04-26 22:20:47,163 [INFO] Task started (v4.1)
+2026-04-26 22:20:47,167 [INFO] Vacation active. Skip commit.
+2026-04-26 22:20:47,167 [INFO] Burnout updated \u2192 0.00
+2026-04-26 22:20:47,167 [INFO] No commit this run
+2026-04-26 22:20:47,168 [INFO] Task finished (v4.1)
+2026-04-27 01:00:03,405 [INFO] Task started (v4.1)
+2026-04-27 01:00:03,414 [INFO] Vacation active. Skip commit.
+2026-04-27 01:00:03,415 [INFO] Burnout updated \u2192 0.00
+2026-04-27 01:00:03,415 [INFO] No commit this run
+2026-04-27 01:00:03,417 [INFO] Task finished (v4.1)
+2026-04-27 16:00:02,560 [INFO] Task started (v4.1)
+2026-04-27 16:00:02,568 [INFO] Vacation active. Skip commit.
+2026-04-27 16:00:02,568 [INFO] Burnout updated \u2192 0.00
+2026-04-27 16:00:02,568 [INFO] No commit this run
+2026-04-27 16:00:02,569 [INFO] Task finished (v4.1)
+2026-04-27 19:00:02,595 [INFO] Task started (v4.1)
+2026-04-27 19:00:02,631 [INFO] Vacation active. Skip commit.
+2026-04-27 19:00:02,631 [INFO] Burnout updated \u2192 0.00
+2026-04-27 19:00:02,632 [INFO] No commit this run
+2026-04-27 19:00:02,632 [INFO] Task finished (v4.1)
+2026-04-27 22:00:03,466 [INFO] Task started (v4.1)
+2026-04-27 22:00:03,471 [INFO] Vacation active. Skip commit.
+2026-04-27 22:00:03,471 [INFO] Burnout updated \u2192 0.00
+2026-04-27 22:00:03,471 [INFO] No commit this run
+2026-04-27 22:00:03,473 [INFO] Task finished (v4.1)
+2026-04-28 01:00:02,469 [INFO] Task started (v4.1)
+2026-04-28 01:00:02,478 [INFO] Commit prob=0.11, decision=False
+2026-04-28 01:00:02,478 [INFO] Burnout updated \u2192 0.00
+2026-04-28 01:00:02,478 [INFO] No commit this run
+2026-04-28 01:00:02,478 [INFO] Task finished (v4.1)
+2026-04-28 04:00:02,227 [INFO] Task started (v4.1)
+2026-04-28 04:00:02,235 [INFO] Commit prob=0.11, decision=False
+2026-04-28 04:00:02,235 [INFO] Burnout updated \u2192 0.00
+2026-04-28 04:00:02,235 [INFO] No commit this run
+2026-04-28 04:00:02,236 [INFO] Task finished (v4.1)
