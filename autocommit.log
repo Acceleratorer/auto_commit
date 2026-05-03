@@ -1157,3 +1157,42 @@
 2026-05-01 19:00:05,511 [INFO] Burnout updated \u2192 0.68
 2026-05-01 19:00:05,511 [INFO] Committed: Minor cleanup
 2026-05-01 19:00:05,512 [INFO] Task finished (v4.1)
+2026-05-01 22:00:04,133 [INFO] Task started (v4.1)
+2026-05-01 22:00:04,153 [INFO] Commit prob=0.50, decision=True
+2026-05-01 22:00:04,346 [INFO] main
+2026-05-01 22:00:04,896 [INFO] [main 09636ae] Minor cleanup
+ 6 files changed, 17 insertions(+), 5 deletions(-)
+2026-05-01 22:00:10,171 [WARNING] To https://github.com/Acceleratorer/auto_commit
+   f38b324..09636ae  main -> main
+2026-05-01 22:00:10,172 [INFO] Burnout updated \u2192 0.80
+2026-05-01 22:00:10,172 [INFO] Committed: Minor cleanup
+2026-05-01 22:00:10,173 [INFO] Task finished (v4.1)
+2026-05-01 22:11:44,598 [INFO] Task started (v4.1)
+2026-05-01 22:11:44,613 [INFO] Commit prob=0.44, decision=False
+2026-05-01 22:11:44,613 [INFO] Burnout updated \u2192 0.72
+2026-05-01 22:11:44,613 [INFO] No commit this run
+2026-05-01 22:11:44,615 [INFO] Task finished (v4.1)
+2026-05-02 16:00:02,497 [INFO] Task started (v4.1)
+2026-05-02 16:00:02,504 [INFO] Vacation roll=0.803, prob=0.022
+2026-05-02 16:00:02,504 [INFO] Commit prob=0.30, decision=False
+2026-05-02 16:00:02,504 [INFO] Burnout updated \u2192 0.64
+2026-05-02 16:00:02,504 [INFO] No commit this run
+2026-05-02 16:00:02,505 [INFO] Task finished (v4.1)
+2026-05-02 22:14:02,017 [INFO] Task started (v4.1)
+2026-05-02 22:14:02,030 [INFO] Vacation roll=0.351, prob=0.020
+2026-05-02 22:14:02,031 [INFO] Commit prob=0.26, decision=False
+2026-05-02 22:14:02,031 [INFO] Burnout updated \u2192 0.56
+2026-05-02 22:14:02,031 [INFO] No commit this run
+2026-05-02 22:14:02,033 [INFO] Task finished (v4.1)
+2026-05-03 01:00:03,532 [INFO] Task started (v4.1)
+2026-05-03 01:00:03,553 [INFO] Vacation roll=0.804, prob=0.018
+2026-05-03 01:00:03,554 [INFO] Commit prob=0.04, decision=False
+2026-05-03 01:00:03,555 [INFO] Burnout updated \u2192 0.48
+2026-05-03 01:00:03,555 [INFO] No commit this run
+2026-05-03 01:00:03,557 [INFO] Task finished (v4.1)
+2026-05-03 01:14:02,999 [INFO] Task started (v4.1)
+2026-05-03 01:14:03,017 [INFO] Vacation roll=0.247, prob=0.016
+2026-05-03 01:14:03,017 [INFO] Commit prob=0.04, decision=False
+2026-05-03 01:14:03,017 [INFO] Burnout updated \u2192 0.40
+2026-05-03 01:14:03,017 [INFO] No commit this run
+2026-05-03 01:14:03,018 [INFO] Task finished (v4.1)
