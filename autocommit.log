@@ -1669,3 +1669,73 @@
 2026-05-15 22:00:02,779 [INFO] Burnout updated \u2192 0.52
 2026-05-15 22:00:02,779 [INFO] No commit this run
 2026-05-15 22:00:02,781 [INFO] Task finished (v4.1)
+2026-05-15 22:21:11,780 [INFO] Task started (v4.1)
+2026-05-15 22:21:11,789 [INFO] Vacation roll=0.313, prob=0.017
+2026-05-15 22:21:11,789 [INFO] Commit prob=0.58, decision=True
+2026-05-15 22:21:11,907 [INFO] main
+2026-05-15 22:21:12,220 [INFO] [main f6e72a1] Improve readability
+ 6 files changed, 28 insertions(+), 5 deletions(-)
+2026-05-15 22:21:15,252 [WARNING] To https://github.com/Acceleratorer/auto_commit
+   9aa37ec..f6e72a1  main -> main
+2026-05-15 22:21:15,252 [INFO] Burnout updated \u2192 0.64
+2026-05-15 22:21:15,252 [INFO] Committed: Improve readability
+2026-05-15 22:21:15,253 [INFO] Task finished (v4.1)
+2026-05-16 01:00:02,455 [INFO] Task started (v4.1)
+2026-05-16 01:00:02,465 [INFO] Vacation roll=0.067, prob=0.020
+2026-05-16 01:00:02,465 [INFO] Commit prob=0.03, decision=False
+2026-05-16 01:00:02,465 [INFO] Burnout updated \u2192 0.56
+2026-05-16 01:00:02,465 [INFO] No commit this run
+2026-05-16 01:00:02,466 [INFO] Task finished (v4.1)
+2026-05-16 04:00:02,413 [INFO] Task started (v4.1)
+2026-05-16 04:00:02,420 [INFO] Vacation roll=0.704, prob=0.018
+2026-05-16 04:00:02,420 [INFO] Commit prob=0.04, decision=False
+2026-05-16 04:00:02,420 [INFO] Burnout updated \u2192 0.48
+2026-05-16 04:00:02,420 [INFO] No commit this run
+2026-05-16 04:00:02,421 [INFO] Task finished (v4.1)
+2026-05-16 16:00:02,840 [INFO] Task started (v4.1)
+2026-05-16 16:00:02,852 [INFO] Vacation roll=0.007, prob=0.016
+2026-05-16 16:00:02,852 [INFO] Vacation started 1 days, cooldown 3 days
+2026-05-16 16:00:02,852 [INFO] Vacation active. Skip commit.
+2026-05-16 16:00:02,852 [INFO] Burnout updated \u2192 0.40
+2026-05-16 16:00:02,852 [INFO] No commit this run
+2026-05-16 16:00:02,853 [INFO] Task finished (v4.1)
+2026-05-16 19:23:08,622 [INFO] Task started (v4.1)
+2026-05-16 19:23:08,647 [INFO] Vacation active. Skip commit.
+2026-05-16 19:23:08,648 [INFO] Burnout updated \u2192 0.32
+2026-05-16 19:23:08,669 [INFO] No commit this run
+2026-05-16 19:23:08,671 [INFO] Task finished (v4.1)
+2026-05-16 22:00:01,945 [INFO] Task started (v4.1)
+2026-05-16 22:00:01,953 [INFO] Vacation active. Skip commit.
+2026-05-16 22:00:01,953 [INFO] Burnout updated \u2192 0.24
+2026-05-16 22:00:01,954 [INFO] No commit this run
+2026-05-16 22:00:01,955 [INFO] Task finished (v4.1)
+2026-05-16 22:18:10,481 [INFO] Task started (v4.1)
+2026-05-16 22:18:10,494 [INFO] Vacation active. Skip commit.
+2026-05-16 22:18:10,495 [INFO] Burnout updated \u2192 0.16
+2026-05-16 22:18:10,495 [INFO] No commit this run
+2026-05-16 22:18:10,497 [INFO] Task finished (v4.1)
+2026-05-17 01:00:02,368 [INFO] Task started (v4.1)
+2026-05-17 01:00:02,379 [INFO] Vacation active. Skip commit.
+2026-05-17 01:00:02,379 [INFO] Burnout updated \u2192 0.08
+2026-05-17 01:00:02,379 [INFO] No commit this run
+2026-05-17 01:00:02,380 [INFO] Task finished (v4.1)
+2026-05-17 16:00:02,116 [INFO] Task started (v4.1)
+2026-05-17 16:00:02,123 [INFO] Vacation active. Skip commit.
+2026-05-17 16:00:02,124 [INFO] Burnout updated \u2192 0.00
+2026-05-17 16:00:02,124 [INFO] No commit this run
+2026-05-17 16:00:02,125 [INFO] Task finished (v4.1)
+2026-05-17 22:00:02,172 [INFO] Task started (v4.1)
+2026-05-17 22:00:02,179 [INFO] Vacation active. Skip commit.
+2026-05-17 22:00:02,179 [INFO] Burnout updated \u2192 0.00
+2026-05-17 22:00:02,179 [INFO] No commit this run
+2026-05-17 22:00:02,180 [INFO] Task finished (v4.1)
+2026-05-17 22:25:21,489 [INFO] Task started (v4.1)
+2026-05-17 22:25:21,493 [INFO] Vacation active. Skip commit.
+2026-05-17 22:25:21,493 [INFO] Burnout updated \u2192 0.00
+2026-05-17 22:25:21,493 [INFO] No commit this run
+2026-05-17 22:25:21,494 [INFO] Task finished (v4.1)
+2026-05-18 01:00:03,002 [INFO] Task started (v4.1)
+2026-05-18 01:00:03,011 [INFO] Commit prob=0.11, decision=False
+2026-05-18 01:00:03,011 [INFO] Burnout updated \u2192 0.00
+2026-05-18 01:00:03,011 [INFO] No commit this run
+2026-05-18 01:00:03,012 [INFO] Task finished (v4.1)
